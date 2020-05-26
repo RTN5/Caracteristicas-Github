@@ -20,26 +20,27 @@ public class CaracteristicasDelGithub {
         Scanner objeto=new Scanner(System.in);
         System.out.println("Que es github");
         String queesgithub = objeto.nextLine();
-        
+        //hgubuyiljb,jhg
         System.out.println("Caracteristicas del Github");
         System.out.println("Caracteristica 1");
         String caracteristica1=objeto.nextLine();
-        
+
         System.out.println("Caracteristica 2");
         String caracteristica2=objeto.nextLine();
-        
+
         System.out.println("Caracteristica 3");
         String caracteristica3=objeto.nextLine();
-        
+
         System.out.println("Caracteristica 4");
         String caracteristica4=objeto.nextLine();
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
         
     }
-    
+
 }
